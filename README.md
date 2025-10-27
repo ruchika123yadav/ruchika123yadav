@@ -12,11 +12,11 @@ Hi, I’m Ruchika Yadav,an aspiring B.Tech student deeply passionate about front
 <img align="right" alt="coding img" width="300" height="250" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 
-- 🌱 Currently Learning --> **Nextjs**
+- 🌱 Currently Learning --> **Azure Data Factory**
 
-- 🎯 Next Target -->**Machine learning**
+- 🎯 Next Target -->**Delta Lake**
 
-- 🛠 Main Objective --> **Front-end innovator**
+- 🛠 Main Objective --> **Front-end and Data Processing**
 
 - 🌏 Entangled with 0 and 1
 
