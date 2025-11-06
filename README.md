@@ -12,9 +12,9 @@ Hi, I’m Ruchika Yadav,an aspiring B.Tech student deeply passionate about front
 <img align="right" alt="coding img" width="300" height="250" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 
-- 🌱 Currently Learning --> **Azure Data Factory**
+- 🌱 Currently Learning --> **Delta Lake**
 
-- 🎯 Next Target -->**Delta Lake**
+- 🎯 Next Target -->**Databricks**
 
 - 🛠 Main Objective --> **Front-end and Data Processing**
 
