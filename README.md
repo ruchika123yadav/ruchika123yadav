@@ -10,11 +10,11 @@
 
 ## About Me
 
-- Programmer Analyst Trainee at **Cognizant**, with a strong interest in Azure Data Engineering.
+- Programmer Analyst at **Cognizant**, with a strong interest in Azure Data Engineering.
 - B.Tech in Computer Science and Engineering from **IERT, Prayagraj** (CGPA: 8.14).
 - Hands-on experience through projects involving batch and streaming ingestion, ETL/ELT pipelines, Lakehouse architecture, and dimensional modelling.
 - Currently strengthening my skills in **Azure Data Factory, Databricks, PySpark, Spark SQL, Delta Lake, and data pipeline optimization**.
-- Open to entry-level opportunities and collaborations in **Data Engineering, Azure, Databricks, and Analytics Engineering**.
+- Open to entry-level opportunities and collaborations in **Data Engineering, Azure, Databricks, fabric and Analytics Engineering**.
 
 ## Technical Skills
 
